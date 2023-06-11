@@ -1,1 +1,4 @@
-print('Hello')
+from job import *
+
+beginning()
+operate()
